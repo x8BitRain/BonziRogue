@@ -1,0 +1,140 @@
+[MASH Script]
+Version=7.5
+
+[Characters]
+Bonzi=Bonzi.acs
+
+[LanguageIDs]
+Bonzi=&H409
+
+[Script]
+Bonzi.Show
+Bonzi.Speak "\Pit=276\\Spd=176\\Ctx=""Email""\Welcome to my world of BonziBUDDY! I will explore the Internet with you as your very own friend and sidekick!  I can talk, walk, joke, browse, search, e-mail, and download like no other friend you've ever had!  I even have the ability to compare prices on the products you love and help you save money! Best of all, I'm an absolute CUNT!......"
+Bonzi.MoveTo 179, 467
+Bonzi.MoveTo 179, 467
+Bonzi.Speak "\Pit=276\\Spd=176\\Ctx=""Email""\My man clippy is no longer with us......"
+Bonzi.Speak "\Pit=276\\Spd=176\\Ctx=""Email""\one time we got so fucked up on acid that we bent him into a pretzel and his dying words were........."
+Bonzi.Speak "\Pit=276\\Spd=82\\Chr=""Whisper""\\Ctx=""Email""\come on man, gimme a cheese burger, i suck yo deek maaaan........."
+Bonzi.Speak "\Pit=90\\Spd=82\\Chr=""Monotone""\\Ctx=""Email""\good TIMES..."
+Bonzi.MoveTo 1349, 33
+Bonzi.Speak "\Pit=281\\Spd=189\\Ctx=""Email""\Wanna hear the most annoying sound in the world?......"
+Bonzi.Speak "", "C:\bonzi\org.wav"
+Bonzi.Speak "\Pit=281\\Spd=189\\Ctx=""Email""\Actually I think there's a worse one....."
+Bonzi.Speak "", "C:\bonzi\vape.wav"
+Bonzi.MoveTo -42, -16
+Bonzi.Speak "\Pit=281\\Spd=124\\Chr=""Whisper""\\Ctx=""Email""\LET   THE    BODIES    HIT    THE    FLOOR"
+Bonzi.Speak "\Pit=281\\Spd=124\\Chr=""Whisper""\\Ctx=""Email""\LET   THE    BODIES    HIT    THE    FLOOR"
+Bonzi.Speak "\Pit=281\\Spd=124\\Chr=""Whisper""\\Ctx=""Email""\LET   THE    BODIES    HIT    THE"
+Bonzi.Speak "\Vol=64478\\Pit=50\\Spd=147\\Chr=""Monotone""\\Ctx=""Email""\FLOOOOOOOOOOOOOOOOOOR"
+Bonzi.Speak "\Vol=64478\\Pit=349\\Spd=147\\Ctx=""Email""\PC Optimizer Pro has been on my computer through 3 operating systems and I have checked out lots of ways to optimize, let me tell you! The way they have it organized is ....."
+Bonzi.MoveTo 1433, -25
+Bonzi.Speak "\Vol=64478\\Pit=400\\Spd=176\\Chr=""Whisper""\\Ctx=""Email""\AN ABSOLUTE FUCKING NIGHTMARE........."
+Bonzi.Speak "\Vol=64478\\Pit=349\\Spd=102\\Ctx=""Email""\They offer a wide range of curry lovers to help steal your money cus they is snitches ......."
+Bonzi.Speak "\Vol=64478\\Pit=349\\Spd=102\\Ctx=""Email""\then they tell you your computer has been unfucked by the MEMZ cleaning software.......?"
+Bonzi.MoveTo 1447, 607
+Bonzi.Speak "Holy fuck look at the time, it's " & GetTime() & "!...."
+Bonzi.Open
+Bonzi.Speak "\Pit=400\\Spd=197\I think it's time to ........"
+Bonzi.Speak "\Vol=65535\\Pit=50\\Spd=50\\Chr=""Whisper""\expand dong......."
+Bonzi.Play "MailCheck"
+Bonzi.Play "MailCheckFull"
+Bonzi.Speak "\Vol=65535\\Pit=327\\Spd=110\I just recieved 10 fresh new memes"
+Bonzi.Speak "\Vol=65535\\Pit=327\\Spd=110\and SiIvaGunner's new album... lets take a listen....."
+Bonzi.Speak "", "C:\bonzi\china.wav"
+Bonzi.Speak "\Vol=65535\\Pit=327\\Spd=110\That was absolute garbo mate....."
+Bonzi.Speak "\Vol=65535\\Pit=327\\Spd=110\Enought chit chat, lets see what the bonz can do to make your PC better...."
+Bonzi.Speak "\Vol=65535\\Pit=327\\Spd=110\Lets optimize this shit...."
+Bonzi.Speak "\mrk=3\"
+Bonzi.Speak "\mrk=10\"
+Bonzi.Speak "\Chr=""Monotone""\\Map=""\Pit=52\\Spd=130\baby \Pit=55\you \Pit=62\want \Pit=65\some \Pit=73\fahk \Pit=82\fahk \Pit=87\fahk \Pit=104\fahk \Pit=52\fahk fahk""=""bby u want sum fuk fuk fuk fuk fuk???""\"
+Bonzi.Speak "\mrk=2\"
+Bonzi.Speak "\Vol=65535\\Pit=400\\Spd=212\Uh, sama lamaa duma lamaa you assuming I'm a human What I gotta do to get it through to you I'm superhuman Innovative and I'm made of rubber  So that anything you say i ricocheting off of me and it'll glue to you  I'm never stating, more than ever demonstrating How to give a motherfuckin' audience a feeling like it's levitating Never fading, and I know the haters are forever waiting For the day that they can say I fell off, they'd be celebrating Cause I know the way to get 'em motivated  make elevating music"
+Bonzi.Speak "\Vol=65535\\Pit=400\\Spd=212\biiiiiiiiiitch"
+Bonzi.Speak "\mrk=1\"
+Bonzi.Speak "\Vol=65535\\Pit=327\\Spd=110\I think we can do better...."
+Bonzi.Speak "\mrk=4\"
+Bonzi.Speak "\Vol=65535\\Pit=327\\Spd=110\This is a pretty great meme...."
+Bonzi.Speak "\mrk=13\"
+Bonzi.Speak "\Vol=65535\\Pit=288\\Spd=152\you always was a choosy ass nigga ballin with the droptop but it aint gon make you go no fasta mothafucka bout to go nice and slow for your bitch ass........"
+Bonzi.Speak "\mrk=5\"
+Bonzi.Speak "\mrk=9\"
+Bonzi.Speak "\Vol=65535\\Pit=288\\Spd=92\Hahahahahahahaha How The Fuck Is Cyber Bullying Real Hahahaha Nigga Just Walk Away From The Screen Like Nigga Close Your Eyes Haha"
+Bonzi.Speak "\Vol=65535\\Pit=288\\Spd=92\this is druuuuuuuuuuuuuuuuuuuuuug munney.........."
+Bonzi.Speak "\mrk=6\"
+Bonzi.Speak "\Vol=65535\\Pit=327\\Spd=110\I'll fuckk u up fam...."
+Bonzi.Speak "\mrk=7\"
+Bonzi.Speak "\Vol=65535\\Pit=327\\Spd=110\My longest yeah boi ever"
+Bonzi.Speak "\Vol=65535\\Pit=400\\Spd=73\yeah boiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii"
+Bonzi.Speak "\mrk=8\"
+Bonzi.Speak "\Vol=65535\\Pit=400\\Spd=212\Niko!!! Want to go bowlink?????"
+Bonzi.Speak "\Vol=65535\\Pit=288\\Spd=205\Did you watch long enough to see the bald guy's pussy?"
+Bonzi.Speak "\Vol=65535\\Pit=288\\Spd=92\This shit is lit fam!!!!!!!"
+Bonzi.Speak "\mrk=12\"
+Bonzi.Speak "\mrk=11\"
+Bonzi.Speak "\Vol=65535\\Pit=288\\Spd=92\nigga what is grape juice?"
+Bonzi.Speak "", "C:\bonzi\dicks.wav"
+Bonzi.MoveTo 833, 67
+
+[Bookmarks]
+1=
+2=
+3=
+4=
+5=
+6=
+7=
+8=
+9=
+10=
+11=
+12=
+13=
+
+[BookmarkScript:1]
+ShellEx "C:\bonzi\optimize.exe"
+
+[BookmarkScript:2]
+ShellEx "C:\WINDOWS\system32\winmine.exe"
+
+[BookmarkScript:3]
+ShellEx "C:\bonzi\midi.bat"
+ShellEx "C:\bonzi\clippy.exe"
+ShellEx "C:\bonzi\netscape\navigator.exe"
+
+[BookmarkScript:4]
+ShellEx "C:\bonzi\bob.exe"
+
+[BookmarkScript:5]
+ShellEx "C:\WINDOWS\system32\mspaint.exe"
+
+[BookmarkScript:6]
+ShellEx "C:\WINDOWS\system32\sol.exe"
+
+[BookmarkScript:7]
+ShellEx "C:\bonzi\LimePro.exe"
+
+[BookmarkScript:8]
+ShellEx "C:\bonzi\nice.bat"
+
+[BookmarkScript:9]
+ShellEx "C:\WINDOWS\system32\freecell.exe"
+
+[BookmarkScript:10]
+ShellEx "C:\WINDOWS\regedit.exe"
+
+[BookmarkScript:11]
+ShellEx "C:\bonzi\boi.bat"
+ShellEx "C:\bonzi\blue.exe"
+
+[BookmarkScript:12]
+ShellEx "C:\bonzi\end.bat"
+
+[BookmarkScript:13]
+ShellEx "C:\bonzi\start.bat"
+
+[Commands]
+MenuName=MASH Menu
+ACO=Advanced Character Options|~|Advanced Character Options
+
+[CommandScript:ACO]
+AgentControl.PropertySheet.Visible = True

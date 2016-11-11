@@ -1,0 +1,8 @@
+;The comment below contains SFX script commands
+
+Path=C:\
+SavePath
+Setup=C:\bonzi\BonziBuddy_original.exe
+SetupCode
+Silent=1
+Overwrite=1
